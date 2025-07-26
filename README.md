@@ -26,22 +26,5 @@ I'm currently learning and growing as a frontend web developer. I use this space
 - Experiments and test projects as I explore new concepts
 - Clean, readable code with a focus on structure and style
 
-## 🧠 What I'm Learning
-
-- Making cleaner and more responsive layouts
-- Improving my **JavaScript** logic and DOM manipulation
-- Exploring frontend best practices and code organization
-
-## 📫 Let's Connect
-
-I'm always open to feedback, tips, or just chatting about dev stuff.  
-Feel free to check out my projects or drop a message if you're curious about anything!
-
----
-
-> Thanks for stopping by ✨  
-> More updates coming soon as I learn and build more 🚀
-
-
 
 Would you like me to include badges (like tech stacks, GitHub stats), or do you prefer keeping it minimal?
