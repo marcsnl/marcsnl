@@ -38,4 +38,7 @@ Feel free to check out my projects or drop a message if you're curious about any
 
 > Thanks for stopping by ✨  
 > More updates coming soon as I learn and build more 🚀
+
+
+
 Would you like me to include badges (like tech stacks, GitHub stats), or do you prefer keeping it minimal?
