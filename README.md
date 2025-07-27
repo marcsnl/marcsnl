@@ -20,4 +20,4 @@ I'm currently learning and growing as a frontend web developer. I use this space
 
 
 
-##Would you like me to include badges (like tech stacks, GitHub stats), or do you prefer keeping it minimal?
+##  Would you like me to include badges (like tech stacks, GitHub stats), or do you prefer keeping it minimal?
