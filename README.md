@@ -18,13 +18,7 @@ I'm currently learning and growing as a frontend web developer. I use this space
 - I work mostly with **HTML**, **CSS**, and **JavaScript**
 - I've built a handful of **basic to intermediate** frontend projects
 - I enjoy experimenting with layouts, UI components, and interactive features
-- My goal right now is to keep learning, building, and improving my skills 💪
 
-## 📁 What You'll Find Here
-
-- Personal frontend projects — from simple UIs to more interactive pages
-- Experiments and test projects as I explore new concepts
-- Clean, readable code with a focus on structure and style
 
 
 Would you like me to include badges (like tech stacks, GitHub stats), or do you prefer keeping it minimal?
