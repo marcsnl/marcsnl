@@ -1,5 +1,3 @@
-ChatGPT said:
-
 Sure! Here's a personalized and friendly README.md for your GitHub profile that reflects your current experience, goals, and projects. You can copy-paste this into your GitHub profile README.md or customize further if you'd like.
 
 markdown
