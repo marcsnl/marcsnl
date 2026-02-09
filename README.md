@@ -1,5 +1,3 @@
-This is an archive for my projects.
-
 I'm Marc, I prompt (LLMs) logics for the programs produced within this archive.
 
 In turn, I study and review generated codes to understand and replicate it.
