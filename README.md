@@ -1,1 +1,1 @@
-Time and resources are limited.
+YOLO
